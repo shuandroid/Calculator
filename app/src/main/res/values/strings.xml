@@ -1,0 +1,31 @@
+    <?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Calculator</string>
+<string name="app_name2">计算器</string>
+<string name="hello_world">Hello world!</string>
+<string name="action_settings">Settings</string>
+<string name="button1">+</string>
+<string name="button2">-</string>
+<string name="button3">*</string>
+<string name="button4">/</string>
+<string name="button_0">0</string>
+<string name="button_00">清除</string>
+<string name="button_000">=</string>
+<string name="button_1">1</string>
+<string name="button_2">2</string>
+<string name="button_3">3</string>
+<string name="button_4">4</string>
+<string name="button_5">5</string>
+<string name="button_6">6</string>
+<string name="button_7">7</string>
+<string name="button_8">8</string>
+<string name="button_9">9</string>
+<string name="Button_C">C</string>
+<string name="Button_k1">(</string>
+<string name="Button_k2">)</string>
+<string name="Button_dot">.</string>
+<string name="title_activity_my_activity3">MyActivity3</string>
+<string name="title_activity_my">MyActivity</string>
+
+</resources>
